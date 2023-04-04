@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0ebf77a-6bd5-46e8-a678-ef45da0606e8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastAPI full" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastAPI practice/hybrid/DataBase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastAPI practice/hybrid/venv/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/.idea/Python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/2 -сeместр/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/2 -сeместр/__name__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/FSP-R-2-22" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/__name__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/register.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/tech/__name__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/teching_cyber_sec/IP_TSP_TOPOLOGY_TIPES_CONNECTION.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teching/.idea/teching.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/python/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 -сeместр/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/python/2 -сeместр/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 -сeместр/.idea/2 -сeместр.iml" beforeDir="false" afterPath="$PROJECT_DIR$/python/2 -сeместр/.idea/2 -сeместр.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 -сeместр/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/python/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 -сeместр/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/python/2 -сeместр/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 -сeместр/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/python/2 -сeместр/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 -сeместр/control_Work_9/control_work_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2 -сeместр/control_Work_9/control_work_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 -сeместр/lesson_1/lesson_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2 -сeместр/lesson_1/lesson_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 -сeместр/lesson_11/lesson_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2 -сeместр/lesson_11/lesson_11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 -сeместр/lesson_2/lesson_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2 -сeместр/lesson_2/lesson_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 -сeместр/lesson_3/lesson_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2 -сeместр/lesson_3/lesson_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 -сeместр/lesson_4/lesson_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2 -сeместр/lesson_4/lesson_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 -сeместр/lesson_5/lesson_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2 -сeместр/lesson_5/lesson_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 -сeместр/lesson_6/lesson_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2 -сeместр/lesson_6/lesson_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 -сeместр/lesson_7/lesson_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2 -сeместр/lesson_7/lesson_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 -сeместр/lesson_8/lesson_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2 -сeместр/lesson_8/lesson_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Project/Django_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django/Project/Django_project/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Project/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Django/Project/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Project/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/Django/Project/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FSP-R-2-22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastAPI full/UdemyFastAPI_PRO/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI full/UdemyFastAPI_PRO/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_plan.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/python/Python_plan.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/codewars.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/codewars/codewars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git clone/topskill_python_homeworks/15 - Decorators, Iterators and Generators/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git clone/topskill_python_homeworks/3 - Arithmetic operations with numbers/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git clone/topskill_python_homeworks/3 - Arithmetic operations with numbers/img_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git clone/topskill_python_homeworks/3 - Arithmetic operations with numbers/img_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git clone/topskill_python_homeworks/5 - Conditional expressions/formula.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git clone/topskill_python_homeworks/6 - String/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git clone/topskill_python_homeworks/8 - List/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/FullStack-APP/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/FullStack-APP/Procfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/FSP-R-2-22/semestr_2/modul_exam.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/FSP-R-2-22/semestr_2/modul_exam.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech/Class.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tech/Class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech/Deep_copy_vs_Shallow_copy.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tech/Deep_copy_vs_Shallow_copy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech/Enum.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tech/Enum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech/Konstant.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tech/Konstant.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech/My_steck.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tech/My_steck.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech/Pickling_консервирование.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tech/Pickling_консервирование.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech/Picling.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tech/Picling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech/RegEx.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tech/RegEx.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech/Static_methods_staticmethod_classmethod.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tech/Static_methods_staticmethod_classmethod.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech/Udemy.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tech/Udemy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech/__new__and__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tech/__new__and__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech/__repr__and__str__.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tech/__repr__and__str__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech/abstrakts_ABC.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tech/abstrakts_ABC.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech/castomic_tipe.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tech/castomic_tipe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech/control_work_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tech/control_work_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech/convertor.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tech/convertor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech/convertor_colling.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tech/convertor_colling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech/datetime_libry.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tech/datetime_libry.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech/generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tech/generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech/json.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech/json.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tech/json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech/lambda_map_filtr.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tech/lambda_map_filtr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech/magic_methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tech/magic_methods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech/miksini.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tech/miksini.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech/mnojestvennoe_nasledovaniya.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tech/mnojestvennoe_nasledovaniya.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech/nasledovanie_polimarfizm.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tech/nasledovanie_polimarfizm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech/notepad++/Unit_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tech/notepad++/Unit_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech/notepad++/progressbar.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tech/notepad++/progressbar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech/notepad++/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tech/notepad++/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech/speed_internet.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tech/speed_internet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech/venv.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tech/venv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech/while.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tech/while.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech/yield.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/tech/yield.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="28de015f-2ae2-4ac3-b81c-f88c81593724" />
+        <option name="url" value="https://github.com/Rasulid/Udemy.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Fqkvu6MKxUzZtL9fOcCzvetKNZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenDatabaseViewOnStart": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/rasul/OneDrive/Desktop/Python/FastAPI full/UdemyFastAPI_PRO",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "terminal",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
+    ],
+    "DatabaseDriversLRU": [
+      "sqlite"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rasul\OneDrive\Desktop\Python\FSP-R-2-22\semestr_2\lesson_31" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rasul\OneDrive\Desktop\Python\FastAPI full\UdemyFastAPI\SetupDatabase\ToDoAPP" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="lesson_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Django/lesson_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Django/lesson_1/lesson_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lesson_23" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/FSP-R-2-22/semestr_2/lesson_23" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/FSP-R-2-22/semestr_2/lesson_23/lesson_23.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_homework.TestRandom.test_rondom_int" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FSP-R-2-22/semestr_2/lesson_33" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_homework.TestRandom.test_rondom_int&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for preparation.test_function" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/FSP-R-2-22/semestr_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;preparation.test_function&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in preparation.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/FSP-R-2-22/semestr_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/python/FSP-R-2-22/semestr_2/preparation.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0ebf77a-6bd5-46e8-a678-ef45da0606e8" name="Changes" comment="" />
+      <created>1665227237435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665227237435</updated>
+      <workItem from="1671435015947" duration="27000" />
+      <workItem from="1671435112032" duration="751000" />
+      <workItem from="1671435942156" duration="3343000" />
+      <workItem from="1671441916855" duration="3960000" />
+      <workItem from="1671446894512" duration="300000" />
+      <workItem from="1671447216464" duration="4508000" />
+      <workItem from="1671518507236" duration="20267000" />
+      <workItem from="1671861581518" duration="281000" />
+      <workItem from="1671861880977" duration="550000" />
+      <workItem from="1672219498486" duration="9331000" />
+      <workItem from="1672379639447" duration="3497000" />
+      <workItem from="1672392625736" duration="15575000" />
+      <workItem from="1672477656839" duration="2427000" />
+      <workItem from="1672561941496" duration="1735000" />
+      <workItem from="1672564270194" duration="3000" />
+      <workItem from="1672564288370" duration="3395000" />
+      <workItem from="1672641106991" duration="5918000" />
+      <workItem from="1672649961816" duration="68000" />
+      <workItem from="1672650218973" duration="8057000" />
+      <workItem from="1672729081552" duration="5029000" />
+      <workItem from="1672806581267" duration="16825000" />
+      <workItem from="1672905487006" duration="5503000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Django" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FastAPI full" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/git clone/topskill_python_homeworks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python/FSP-R-2-22" vcs="Git" />
+  </component>
+</project>
